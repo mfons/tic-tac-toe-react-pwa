@@ -11,6 +11,6 @@ function TimeSliceList(props) {
             <ol>{items}</ol>
         </div>
     )
-}
+} 
 
 export default TimeSliceList
